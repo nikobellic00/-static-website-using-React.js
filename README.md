@@ -1,3 +1,6 @@
+made this project for learning some new concepts about Bulma(css framework)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
